@@ -2,7 +2,7 @@
 
 ## 读书会 | 预测算法：具身智能如何应对不确定性
 
-Edit: Hao ZHAn
+Edit: Hao ZHAN
 
 2021/1/5
 
